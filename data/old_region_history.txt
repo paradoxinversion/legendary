@@ -1,0 +1,403 @@
+Sil Nitem
+The Plane of Visions
+
+Olm men
+Amphibian men
+Serpent men
+Reptile men
+Cave fish men
+Serpent men
+Cave fish men
+Amphibian men
+Bat men
+Cave swallow men
+Olm men
+Antmen
+Rodent men
+Reptile men
+Rodent men
+Olm men
+Cave fish men
+Serpent men
+Cave swallow men
+Amphibian men
+Antmen
+Reptile men
+Serpent men
+Rodent men
+Antmen
+Cave swallow men
+Bat men
+Cave fish men
+Antmen
+Amphibian men
+Bat men
+Cave swallow men
+Olm men
+Rodent men
+Bat men
+Olm men
+Cave fish men
+Reptile men
+Rodent men
+Cave swallow men
+Serpent men
+Amphibian men
+Amphibian men
+Olm men
+Bat men
+Rodent men
+Antmen
+Cave fish men
+Cave swallow men
+Reptile men
+Antmen
+Reptile men
+Cave swallow men
+Amphibian men
+Olm men
+Cave fish men
+Serpent men
+Rodent men
+Amphibian men
+Rodent men
+Serpent men
+Cave fish men
+Olm men
+Bat men
+Antmen
+Cave swallow men
+The Regal Paddle, Dwarves
+ Worship List
+  Erib the Tower of Turquoise, deity: jewels, mountains
+  Tobul Steelcaves, deity: metals
+  Datan Tiniron the Aquamarine of Oiling, deity: minerals
+  Kovest Westway the Treasure of Treasuries, deity: wealth, trade
+  Arban, deity: fortresses
+  OmtÑl, deity: freedom
+  Ilir the Flag of Whirling, deity: revelry
+  The Lashes of Competition, deity: victory, war, death, murder
+  Luslem, deity: the stars, the sky
+  Lun the Vine of Tundras, deity: plants
+  Emtan Helpdate, deity: children, hospitality
+  Sheget Bladecombats, deity: revenge, writing
+ king List
+  [*] Dastot Wiregangs (b.??? d. 16, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped OmtÑl (34%)
+  [*] Avuz Manordikes (b.???, Reign Began: 17), *** New Line, Married
+      11 Children -- Ages: 182 181 180 178 176 175 173 171 170 166 164
+      Worships The Lashes of Competition (100%)
+  [*] Doren Taxedrazors (b.??? d. 61, Reign Began: 54), *** New Line, Never Married
+      No Children
+      Worshipped Sheget Bladecombats (39%)
+  [*] èblel Amazetools (b.??? d. 157, Reign Began: 62), *** New Line, Never Married
+      No Children
+      Worshipped Tobul Steelcaves (47%)
+  [*] Obok Bootpolish (b.134, Reign Began: 157), *** New Line, Married
+      9 Children -- Ages: 52 50 43 41 40 38 21 20 16
+The Union of Clarifying, Humans
+ Worship List
+  Ubet, deity: torture, misery
+  Dilol the Syrup of Bridging, deity: crafts
+  Bushik Relievedrelease, deity: freedom
+  Mater, deity: the night, the moon, the sky, rainbows
+  Par the Snacks of Bothering, deity: family
+  Bekor, deity: rumors
+  Buqui Intensedrink the Wild Savior, deity: storms, thunder, lightning, the rain
+  Udir Mirthfulbraves, deity: mercy, forgiveness
+ law-giver List
+  [*] Zega Jokepeek (b.???, Reign Began: 2), *** Original Line, Never Married
+      1 Child -- Ages: 194
+      Worships Buqui Intensedrink the Wild Savior (56%)
+  [*] Sesle Cradleshot (b.??? d. 40, Reign Began: 6), *** New Line, Never Married
+      No Children
+      Worshipped Dilol the Syrup of Bridging (58%)
+  [*] Specut Cleanedtops (b.24 d. 51, Reign Began: 41), *** New Line, Never Married
+      No Children
+      Worshipped Udir Mirthfulbraves (87%)
+  [*] Ibid Powerfactions (b.14 d. 93, Reign Began: 52), *** New Line, Married (d. 71)
+      12 Children (out-lived 7 of them) -- Ages at death: (d. 89) 50 49 (d. 56) 47 (d. 56) (d. 60) (d. 59) (d. 72) 30 (d. 74) 23
+      Worshipped Udir Mirthfulbraves (86%)
+  [*] Ecod Conjuredglossed (b.82 d. 103, Reign Began: 94), Inherited from paternal grandmother, Never Married
+      No Children
+  [*] K†d Ballhop (b.86 d. 150, Reign Began: 104), *** New Line, Married (d. 199)
+      7 Children (out-lived 3 of them) -- Ages at death: (d. 145) 45 (d. 120) 40 25 20 (d. 147)
+      Worshipped Ubet (89%)
+  [*] Uzu Dentflames (b.110, Reign Began: 151), Inherited from father, Married (d. 194)
+      18 Children -- Ages: 75 74 73 71 69 68 67 56 55 53 51 49 47 37 35 27 12 8
+Grigikrulbus, Kobolds
+The Lake of Tours, Elves
+ Worship List
+  Elana the Squid of Packs, force: nature, rivers
+ druid List
+  [*] Nethitha Tundramyths (b.??? d. 13, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (11%)
+  [*] Alala Relievedmusics (b.??? d. 14, Reign Began: 2), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (1%)
+  [*] RÇnuna Satinysects (b.??? d. 26, Reign Began: 15), *** New Line, Married (d. 34)
+      5 Children (out-lived 2 of them) -- Ages at death: 7 (d. 22) 4 (d. 25) 2
+      Worshipped Elana the Squid of Packs (6%)
+  [*] Lene Mutethundered (b.??? d. 45, Reign Began: 27), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (65%)
+  [*] Nämile Hailedtouch (b.??? d. 50, Reign Began: 46), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (68%)
+  [*] Rifafa Silktemple (b.??? d. 66, Reign Began: 51), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (18%)
+  [*] Eletha Strickenbudded (b.??? d. 72, Reign Began: 67), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (72%)
+  [*] Thone Worldrose (b.??? d. 77, Reign Began: 73), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (64%)
+  [*] Iki Autumnalrope (b.??? d. 80, Reign Began: 78), *** New Line, Married (d. 80)
+      4 Children -- Ages at death: 5 4 2 0
+      Worshipped Elana the Squid of Packs (51%)
+  [*] Yarare Typhoonpillars (b.??? d. 88, Reign Began: 81), *** New Line, Married (d. 88)
+      4 Children -- Ages at death: 5 4 2 1
+      Worshipped Elana the Squid of Packs (93%)
+  [*] Masami Cherishburies (b.???, Reign Began: 89), *** New Line, Married (d. 107)
+      6 Children -- Ages: 106 105 103 101 97 94
+      Worships Elana the Squid of Packs (31%)
+ princess List
+  [*] Alala Peaceseason (b.??? d. 1, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (18%)
+  [*] Mawada Toetufts (b.??? d. 14, Reign Began: 2), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (29%)
+  [*] C¢ce Tightnesscherished (b.??? d. 26, Reign Began: 15), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (51%)
+  [*] Sanera Glittertrusses (b.??? d. 131, Reign Began: 27), *** New Line, Never Married
+      1 Child (out-lived) -- Ages at death: (d. 127)
+      Worshipped Elana the Squid of Packs (56%)
+  [*] Iòe Blazesford (b.???, Reign Began: 30), *** New Line, Never Married
+      9 Children -- Ages: 168 167 166 163 161 159 158 156 153
+      Worships Elana the Squid of Packs (23%)
+  [*] Eletha Spottedtusks (b.??? d. 50, Reign Began: 48), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (20%)
+  [*] Atera Skinfliers (b.??? d. 61, Reign Began: 51), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (73%)
+  [*] Caraca Webfang (b.??? d. 66, Reign Began: 62), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (29%)
+  [*] Lene Clobberstyle (b.??? d. 77, Reign Began: 67), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (9%)
+  [*] òalómi Pearconjure (b.??? d. 80, Reign Began: 78), *** New Line, Married (d. 77)
+      5 Children -- Ages at death: 8 7 6 5 4
+      Worshipped Elana the Squid of Packs (17%)
+  [*] Alala Hailchapels (b.???, Reign Began: 81), *** New Line, Never Married
+      1 Child -- Ages: 116
+      Worships Elana the Squid of Packs (43%)
+  [*] Imiwa Mountaindies (b.??? d. 88, Reign Began: 85), *** New Line, Married (d. 88)
+      4 Children -- Ages at death: 5 4 2 1
+      Worshipped Elana the Squid of Packs (63%)
+  [*] Amayi Gullygale (b.??? d. 93, Reign Began: 89), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (89%)
+  [*] Amala Vaultrocks (b.??? d. 112, Reign Began: 94), *** New Line, Married
+      4 Children -- Ages at death: 4 3 2 0
+      Worshipped Elana the Squid of Packs (15%)
+  [*] L°ceyi Sistersgully (b.??? d. 112, Reign Began: 108), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (10%)
+  [*] Lesana Fragrantbends (b.??? d. 118, Reign Began: 113), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (88%)
+  [*] Idala Nutsamazed (b.??? d. 199, Reign Began: 119), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (77%)
+  [*] Alino Strengthrose (b.???, Reign Began: 120), *** New Line, Married
+      No Children
+      Worships Elana the Squid of Packs (50%)
+  [*] Yarare Owltalk (b.???, Reign Began: 134), *** New Line, Married
+      No Children
+      Worships Elana the Squid of Packs (93%)
+ queen List
+  [*] Liyçòi Blotlilacs (b.???, Reign Began: 1), *** Original Line, Never Married
+      1 Child -- Ages: 198
+      Worships Elana the Squid of Packs (18%)
+  [*] Fale Truthsprings (b.??? d. 14, Reign Began: 2), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (5%)
+  [*] Nithe Mellowhawks (b.??? d. 66, Reign Began: 15), *** New Line, Married (d. 66)
+      No Children
+      Worshipped Elana the Squid of Packs (85%)
+  [*] ElÇde Dalerocks (b.???, Reign Began: 67), *** New Line, Never Married
+      3 Children -- Ages: 133 132 131
+      Worships Elana the Squid of Packs (29%)
+  [*] Awiri Daubsing (b.??? d. 77, Reign Began: 69), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (64%)
+  [*] Masami Buckdreams (b.??? d. 80, Reign Began: 78), *** New Line, Married (d. 80)
+      4 Children -- Ages at death: 5 4 2 0
+      Worshipped Elana the Squid of Packs (65%)
+  [*] Vinena Hidedashed (b.??? d. 88, Reign Began: 81), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (74%)
+  [*] Epeve Mostsnarled (b.??? d. 93, Reign Began: 89), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (80%)
+  [*] Imere Dropletsears (b.??? d. 107, Reign Began: 94), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (5%)
+  [*] Amala Vaultrocks (b.??? d. 112, Reign Began: 108), *** New Line, Married
+      4 Children -- Ages at death: 4 3 2 0
+      Worshipped Elana the Squid of Packs (15%)
+  [*] Fewetha Wispyprisons (b.??? d. 118, Reign Began: 113), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (76%)
+  [*] Sethe Silkyrights (b.67 d. 133, Reign Began: 119), *** New Line, Never Married
+      No Children
+      Worshipped Elana the Squid of Packs (1%)
+  [*] Alino Strengthrose (b.???, Reign Began: 134), *** New Line, Married
+      No Children
+      Worships Elana the Squid of Packs (50%)
+The Fragile Scorpion, Goblins
+ master List
+  [*] Guthstak the Mangy Calluses (b.??? d. 2, Reign Began: -1), *** Original Line, Never Married
+      No Children
+  [*] Damsto Spinescourges (b.??? d. 25, Reign Began: 3), *** New Line, Married
+      9 Children (out-lived 5 of them) -- Ages at death: (d. 2) (d. 10) (d. 4) 20 (d. 7) (d. 16) 12 11 1
+  [*] Ngokang Tonepoison (b.14 d. 59, Reign Began: 26), Inherited from mother, Never Married
+      No Children
+  [*] Ngokang Floodeddevil (b.??? d. 60, Reign Began: 60), *** New Line, Never Married
+      No Children
+  [*] Snang Stolenchannels (b.??? d. 63, Reign Began: 61), *** New Line, Never Married
+      No Children
+  [*] Asno Showerhexes (b.??? d. 70, Reign Began: 64), *** New Line, Never Married
+      No Children
+  [*] Ozud Momentthieves (b.??? d. 72, Reign Began: 71), *** New Line, Never Married
+      No Children
+  [*] Tode Bulbouswraiths (b.???, Reign Began: 73), *** New Line, Married (d. 73)
+      No Children
+The Saffron Snarls, Elves
+ Worship List
+  Iyathi, force: nature, rivers
+ druid List
+  [*] Thelire Intenseembrace (b.??? d. 141, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Iyathi (82%)
+  [*] Amala Tundraportent (b.???, Reign Began: 142), *** New Line, Never Married
+      No Children
+      Worships Iyathi (96%)
+ princess List
+  [*] Romimi Dangleglisten (b.??? d. 10, Reign Began: 1), *** Original Line, Married (d. 10)
+      5 Children (out-lived 5 of them) -- Ages at death: (d. 2) (d. 9) (d. 9) (d. 9) (d. 9)
+      Worshipped Iyathi (48%)
+  [*] Salore Forestcleans (b.??? d. 92, Reign Began: 11), *** New Line, Never Married
+      1 Child -- Ages at death: 75
+      Worshipped Iyathi (88%)
+  [*] Yawo Beachbridges (b.??? d. 95, Reign Began: 16), *** New Line, Never Married
+      No Children
+      Worshipped Iyathi (98%)
+  [*] Inale Beigefly (b.??? d. 43, Reign Began: 20), *** New Line, Married (d. 43)
+      6 Children (out-lived 1 of them) -- Ages at death: 13 12 6 (d. 38) 3 2
+      Worshipped Iyathi (10%)
+  [*] Dafo Leopardcrows (b.??? d. 54, Reign Began: 44), *** New Line, Never Married
+      No Children
+      Worshipped Iyathi (10%)
+  [*] Athe Poemhale (b.41 d. 95, Reign Began: 55), *** New Line, Married (d. 54)
+      1 Child (out-lived) -- Ages at death: (d. 58)
+      Worshipped Iyathi (7%)
+  [*] Lapama Glimmeredgorged (b.66 d. 141, Reign Began: 96), *** New Line, Never Married
+      No Children
+      Worshipped Iyathi (62%)
+  [*] Cequova Spreadscales (b.??? d. 162, Reign Began: 142), *** New Line, Married (d. 141)
+      No Children
+      Worshipped Iyathi (54%)
+  [*] Sethe Empireclam (b.??? d. 173, Reign Began: 163), *** New Line, Never Married
+      No Children
+      Worshipped Iyathi (68%)
+  [*] Eslome Bearjungle (b.141, Reign Began: 174), *** New Line, Never Married
+      No Children
+ queen List
+  [*] Mafi Lyricfainted (b.??? d. 10, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Iyathi (50%)
+  [*] Ar° Skirtbud (b.??? d. 19, Reign Began: 11), *** New Line, Married (d. 43)
+      4 Children (out-lived 1 of them) -- Ages at death: 5 (d. 15) 2 0
+      Worshipped Iyathi (97%)
+  [*] Yawo Beachbridges (b.??? d. 95, Reign Began: 20), *** New Line, Never Married
+      No Children
+      Worshipped Iyathi (98%)
+  [*] Fewetha Amberpelts (b.65 d. 173, Reign Began: 96), *** New Line, Never Married
+      No Children
+      Worshipped Iyathi (58%)
+  [*] òemi Smilewalk (b.???, Reign Began: 174), *** New Line, Married (d. 162)
+      2 Children -- Ages: 39 38
+      Worships Iyathi (95%)
+The Girlish Breach-Confederation, Humans
+ Worship List
+  Aco, deity: rivers
+  Kasat the Decent Purity, deity: forgiveness
+  Cob†r Gladnesshopeful, deity: charity
+  Akan, deity: animals, plants
+  Ura, deity: death
+  Artha, deity: volcanos, mountains, earth, caverns
+  Dirlu, deity: lakes, coasts, oceans
+  Egesh, deity: silence, the rain
+  Cero the Ace Messiahs, deity: discipline, order, laws, the moon
+  Girus, deity: chaos, war, victory
+  Aba, deity: beauty, art
+  Zebna the Yell of Stances, deity: youth, rainbows
+ law-giver List
+  [*] Ilan Savegrip (b.??? d. 14, Reign Began: 4), *** Original Line, Never Married
+      No Children
+      Worshipped Cob†r Gladnesshopeful (95%)
+  [*] Alpeth Cakemurders (b.3, Reign Began: 15), *** New Line, Married (d. 111)
+      16 Children -- Ages: 179 178 177 176 175 173 170 168 167 156 154 151 147 143 141 130
+      Worships Dirlu (26%)
+  [*] Irol Springssieged (b.41 d. 127, Reign Began: 74), *** New Line, Married (d. 131)
+      14 Children (out-lived 9 of them) -- Ages at death: (d. 73) (d. 117) (d. 79) 68 (d. 63) 61 (d. 70) 40 37 (d. 96) (d. 99) 27 (d. 108) (d. 114)
+      Worshipped Ura (100%)
+  [*] Lapa Roastedbegun (b.66 d. 141, Reign Began: 127), Inherited from mother, Married (d. 88)
+      3 Children (out-lived 1 of them) -- Ages at death: 57 (d. 96) 54
+  [*] As Fencesinged (b.98 d. 198, Reign Began: 141), Inherited from paternal grandfather, Married
+      13 Children (out-lived 3 of them) -- Ages at death: 86 (d. 123) (d. 185) 80 (d. 185) 78 65 64 62 49 39 35 28
+      Worshipped Ura (12%)
+  [*] Thomod Cunningmarks (b.170, Reign Began: 198), Inherited from father, Married
+      6 Children -- Ages: 16 11 9 8 6 2
+The Walled Fiend, Goblins
+ master List
+  [*] Tarem Mitephantoms (b.???, Reign Began: -1), *** Original Line, Never Married
+      No Children
+Dlabolbis, Kobolds
+The Secretive Den, Elves
+ Worship List
+  Iyathi, force: nature, rivers
+ druid List
+  [*] Mina Trailmornings (b.??? d. 184, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Iyathi (36%)
+  [*] Atera Lakebreached (b.62 d. 185, Reign Began: 185), *** New Line, Married
+      6 Children (out-lived 1 of them) -- Ages at death: 108 107 (d. 80) 103 101 100
+  [*] Lora Thunderedtribes (b.77, Reign Began: 186), *** New Line, Never Married
+      No Children
+ princess List
+  [*] Inefa Feralwave (b.??? d. 185, Reign Began: 1), *** Original Line, Married
+      12 Children (out-lived 7 of them) -- Ages at death: 183 (d. 48) 175 (d. 88) (d. 79) (d. 58) 167 159 158 (d. 184) (d. 156) (d. 150)
+      Worshipped Iyathi (36%)
+  [*] Niri Tressedjustice (b.85 d. 185, Reign Began: 185), Inherited, Married
+      No Children
+  [*] Liyçòi Grizzlyrock (b.23, Reign Began: 186), *** New Line, Never Married
+      No Children
+      Worships Iyathi (58%)
+ queen List
+  [*] Amena Manorstream (b.??? d. 184, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Iyathi (7%)
+  [*] Inefa Feralwave (b.??? d. 185, Reign Began: 185), *** New Line, Married
+      12 Children (out-lived 7 of them) -- Ages at death: 183 (d. 48) 175 (d. 88) (d. 79) (d. 58) 167 159 158 (d. 184) (d. 156) (d. 150)
+      Worshipped Iyathi (36%)
+  [*] Quathari Flightstrap (b.86, Reign Began: 186), Inherited, Married
+      No Children
