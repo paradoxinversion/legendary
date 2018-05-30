@@ -2,22 +2,14 @@
 
 Legendary is a parser for Dwarf Fortress legends data.
 
-Notes/Methodologies
+## Current Support
 
-World History Files
+Legendary currently parses World History data (exported from new maps). Next up is World Sites / Pops
 
-Lines 1 and 2 and the name of the region and the region's nickname.
+## Method/Notes
 
-The next block of info regards different types of monster men (?) present in the region. Each of these is a single line and ends with 'men'. Lines may have spaces and multiple words.
+Each of the raw Legends files have a specific (un unmarked) structure. In order to successfully parse each raw file, the structure of each must be considered. The general flow is, "Read, Breakdown, and Parse."
 
-## Civilizations
+First, read in each individual section of a file. Then, if it has subcomponents, break it down into those components. After that, parse the processed components in the smallest chunks possible.
 
-### Structure
-
-Civ
-
-## Method
-
-The general flow is, "Read, Breakdown, and Parse."
-
-Each file is broken up into several clear sections, that can be extracted from the original string, allowing only those sections to be parsed. This breakdown allows us to work with specific pieces of data, rather than attempting to parse multiple different kinds of data with one (or more) massive parser functions.
+We want to divide each section into the smallest pieces possible both to reduce the mental overhead of the code and to make it easy to modify the parser if and when some small change happens to Legend output.
