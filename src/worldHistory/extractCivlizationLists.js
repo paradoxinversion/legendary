@@ -1,4 +1,4 @@
-const listRegex = new RegExp("[a-zA-Z-]+(?= list)", "i");
+const { listRegex } = require("../utility/parserConfig").regexConfig;
 
 /**
  * Extracts civLists from a civ into a string

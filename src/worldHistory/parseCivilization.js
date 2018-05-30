@@ -1,16 +1,7 @@
 const breakdownCivilizationLists = require("./breakdownCivilizationLists");
 const extractCivilizationLists = require("./extractCivlizationLists");
-const civilizationRegex = new RegExp(
-  "^[a-zA-Z ]+, (Dwarves|Humans|Elves|Goblins|Kobolds)"
-);
-// const parseCivilization = civEntry => {
-//   const match = civEntry.match(civilizationRegex);
-//   const civInfo = {
-//     name: match[0],
-//     race: match[1]
-//   };
-//   return civInfo;
-// };
+const { civilizationRegex } = require("../utility/parserConfig").regexConfig;
+
 /**
  *
  * @param {string} rawCivStringArray - String of all civ entries

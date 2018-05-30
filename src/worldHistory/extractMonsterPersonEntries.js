@@ -1,4 +1,4 @@
-const beastPeopleRegex = new RegExp("([a-zA-Z]+)( ?)men");
+const { beastPeopleRegex } = require("../utility/parserConfig").regexConfig;
 
 /**
  * Extracts only the monster men section of the history

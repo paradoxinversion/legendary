@@ -1,4 +1,5 @@
-beastPeopleRegex = new RegExp("([a-zA-Z]+)( ?)men");
+const { beastPeopleRegex } = require("../utility/parserConfig").regexConfig;
+
 /**
  * Gets all monster men from a string containing them-- removes duplicates.
  * @param {string} rawMonsterManString

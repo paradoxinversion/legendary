@@ -1,6 +1,5 @@
-const civilizationRegex = new RegExp(
-  "^[a-zA-Z ]+, (Dwarves|Humans|Elves|Goblins|Kobolds)"
-);
+const { civilizationRegex } = require("../utility/parserConfig").regexConfig;
+
 /**
  * Breaks a string containing multiple rawCivilizations into an array of strings of seperate rawCivilizations
  * @param {string} rawCivilizationsString - All lines of world_history from beginning to end of civs, split into an array

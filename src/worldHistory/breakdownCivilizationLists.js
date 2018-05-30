@@ -1,12 +1,11 @@
-const listRegex = new RegExp("[a-zA-Z-]+(?= list)", "i");
-const worshipEntryRegex = new RegExp("([a-zA-Z -]+), ([a-zA-Z]+):");
-const worshipSpheresRegex = new RegExp(
-  "([a-zA-Z]+ [a-zA-Z]+)|([a-zA-Z]+)",
-  "g"
-);
-const leaderNameRegex = new RegExp("([a-zA-Z]+ *[a-zA-Z]+)");
-const leaderLifeReignRegex = new RegExp("\\(([^)]+)\\)");
-const leaderChildrenRegex = new RegExp("([\\d]+) Children|No Children");
+const {
+  listRegex,
+  worshipEntryRegex,
+  worshipSpheresRegex,
+  leaderNameRegex,
+  leaderLifeReignRegex,
+  leaderChildrenRegex
+} = require("../utility/parserConfig").regexConfig;
 
 // ! This should only be breaking down the list, but currently parses it as well.
 const breakdownCivilizationLists = civListsString => {

@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const getFileData = require("../utilityFunctions/getFileData");
+const getFileData = require("../utility/getFileData");
 const extractMonsterManEntries = require("./extractMonsterPersonEntries");
 const parseMonsterMen = require("./parseMonsterPeople");
 const extractCivilizationEntries = require("./extractCivilizationEntries");
@@ -8,9 +8,9 @@ const breakdownCivilizations = require("./breakdownCivilizations");
 const parseCivilization = require("./parseCivilization");
 const extractCivilizationLists = require("./extractCivlizationLists");
 const breakdownCivilizationLists = require("./breakdownCivilizationLists");
-const history = {};
 
 const parseHistoryData = async () => {
+  const history = {};
   const rawHistoryData = await getFileData(
     path.join(__dirname, "../../data/old_region_history.txt")
   );
@@ -28,5 +28,6 @@ const parseHistoryData = async () => {
   console.log(history);
   return history;
 };
-
 parseHistoryData();
+
+return parseHistoryData;

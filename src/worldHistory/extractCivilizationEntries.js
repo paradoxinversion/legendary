@@ -1,6 +1,5 @@
-const civilizationRegex = new RegExp(
-  "^[a-zA-Z ]+, (Dwarves|Humans|Elves|Goblins|Kobolds)"
-);
+const { civilizationRegex } = require("../utility/parserConfig").regexConfig;
+
 /**
  * extracts only the civ section of the history
  * @param {*} historyDataLines - All lines of world_history, split into an array
